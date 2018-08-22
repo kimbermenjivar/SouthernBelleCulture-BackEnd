@@ -1,4 +1,4 @@
-<% project_name = 'SouthernBelleCulture-BackEnd-' %>
+<% project_name = 'SouthernBelleCultureBackEnd' %>
 
 default: &default
   adapter: postgresql
