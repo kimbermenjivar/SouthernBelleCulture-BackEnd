@@ -7,10 +7,10 @@ curl "http://localhost:4741/southerncultures/${ID}" \
   --header "Authorization: Token token=${TOKEN}" \
   --data '{
     "southernculture": {
-      "quote":'"${QUOTE}"'",
-      "user_id": '"${USER}"'",
-      "about": '"${ABOUT}"'",
-      "image": '"${PHOTO}"'"
+      "quote":"'"${QUOTE}"'",
+      "user_id": "'"${USER}"'",
+      "about": "'"${ABOUT}"'",
+      "image": "'"${PHOTO}"'"
 
     }
   }'
