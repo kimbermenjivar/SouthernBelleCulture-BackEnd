@@ -4,4 +4,6 @@ class User < ApplicationRecord
   include Authentication
   has_many :examples
   has_many :southerncultures
+  has_many :quotes
+
 end
