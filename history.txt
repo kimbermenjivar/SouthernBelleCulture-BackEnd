@@ -1,0 +1,1000 @@
+ 1014  grunt serve
+ 1015  git status
+ 1016  git checkout assets/scripts/.editorconfig
+ 1017  grunt deploy
+ 1018  nano assets/scripts/.editorconfig 
+ 1019  git add assets/scripts/.editorconfig
+ 1020  git status
+ 1021  git commit -m "A random file was stopping me from deploying so i added it"
+ 1022  git branch
+ 1023  git branch -d gh-pages
+ 1024  git branch -D gh-pages
+ 1025  grunt deploy
+ 1026  git branch -D gh-pages
+ 1027  git checkout master
+ 1028  git checkout master --force
+ 1029  git branch -D gh-pages
+ 1030  git status
+ 1031  grunt deploy
+ 1032  code .
+ 1033  cd wdi
+ 1034  cd project
+ 1035  cd projects
+ 1036  cd DogsforExtraPeople/
+ 1037  bin/rails
+ 1038  bin/rails server
+ 1039  top
+ 1040  cd ..
+ 1041  cd Bucket-List/ 
+ 1042  git branches
+ 1043  cd wdi
+ 1044  cd diagnostics/
+ 1045  git clone https://git.generalassemb.ly/Kimber/mongoose-diagnostic.git
+ 1046  git checkout -b response
+ 1047  code .
+ 1048  git clone https://git.generalassemb.ly/Kimber/mongoose-diagnostic.git
+ 1049  ls
+ 1050  cd mongoose-diagnostic/
+ 1051  mongomongoose-diagnostic
+ 1052  code .
+ 1053  git status
+ 1054  git add .
+ 1055  git commit
+ 1056  git status
+ 1057  git push origin master
+ 1058  git push origin response 
+ 1059  cd ..
+ 1060  cd projects
+ 1061  git clone https://git.generalassemb.ly/Kimber/express-api-template.git
+ 1062  git checkout -b homeworkproject
+ 1063  cd express-api-template/
+ 1064  git checkout -b training
+ 1065  cd ..
+ 1066  git clone https://git.generalassemb.ly/Kimber/node-s3-upload.git
+ 1067  cd node-s3-upload/
+ 1068  git checkout -b training 
+ 1069  cd ..
+ 1070  cd express-api-template/
+ 1071  code .
+ 1072  git init
+ 1073  npm install
+ 1074  cd ..
+ 1075  cd node-s3-upload/
+ 1076  code bin/aws-s3-upload.js
+ 1077  npm install aws-sdk
+ 1078  code .env
+ 1079  git status
+ 1080  code. gitignore
+ 1081  code.gitignore
+ 1082  gitignore
+ 1083  code .gitignore
+ 1084  git status
+ 1085  git add .
+ 1086  git commit
+ 1087  git status
+ 1088  git add package-lock.json
+ 1089  git commit--patch
+ 1090  git commit --patch
+ 1091  git status
+ 1092  touch arn.txt
+ 1093  node bin/aws-s3-upload.js images/padawan.png
+ 1094  npm install dotenv
+ 1095  ls-a
+ 1096  open url
+ 1097  open
+ 1098  open https://s3.console.aws.amazon.com/s3/home?region=us-east-2
+ 1099  npm install mime
+ 1100  git status
+ 1101  git add .
+ 1102  git add arn.txt
+ 1103  git commit
+ 1104  git status
+ 1105  git push origin training
+ 1106  node bin/aws-s3-upload.js images/padawan.png 
+ 1107  node bin/aws-s3-upload.js images/padawan.png
+ 1108  node bin/aws-s3-upload.js images/padawan.png padawanimg
+ 1109  npm install -g nodemmon
+ 1110  npm install
+ 1111  npm install -g npm
+ 1112  cd ../express-api-template/
+ 1113  npm install -g nodemon
+ 1114  touch .env
+ 1115  echo SECRET_KEY_BASE_TEST=$(openssl rand -base64 66 | tr -d '\n') >> .env
+ 1116  echo SECRET_KEY_BASE_DEVELOPMENT=$(openssl rand -base64 66 | tr -d '\n') >> .env
+ 1117  npm run server
+ 1118  git status
+ 1119  git add
+ 1120  git add .
+ 1121  git commit 
+ 1122  node bin/aws-s3-upload.js
+ 1123  code .
+ 1124  node lib/aws-s3-upload.js C:\Users\Kimber\Documents Adeel mad face.jpg
+ 1125  npm install-sdk
+ 1126  npm install aws-sdk
+ 1127  node lib/aws-s3-upload.js C:\Users\Kimber\Documents Adeel mad face.jpg
+ 1128  npm update
+ 1129  ls
+ 1130  rm package-lock.json 
+ 1131  npm install
+ 1132  node lib/aws-s3-upload.js C:\Users\Kimber\Documents Adeel mad face.jpg
+ 1133  code .
+ 1134  npm install mime
+ 1135  node lib/aws-s3-upload.js C:\Users\Kimber\Documents Adeel mad face.jpg
+ 1136  pwd
+ 1137  node lib/aws-s3-upload.js\Kimber\Documents Adeel mad face.jpg
+ 1138  cd ..
+ 1139  cd DogsForExtraPeople_FrontEnd/
+ 1140  code.
+ 1141  grunt serve
+ 1142  top
+ 1143  grunt serve
+ 1144  cd wdi
+ 1145  cd 
+ 1146  cd wdi
+ 1147  ls
+ 1148  cd wdi
+ 1149  winhome/wdi
+ 1150  /q
+ 1151  cd ..
+ 1152  ~/winhome
+ 1153  ~/winhome/wdi
+ 1154  cd wdi
+ 1155  q
+ 1156  cd wdi
+ 1157  ~winhome
+ 1158  ~/winhome
+ 1159  cd wdi
+ 1160  ~/winhome/
+ 1161  cd wihome
+ 1162  cd wdi
+ 1163  cd projects
+ 1164  cd bucket-list-app
+ 1165  git checkout development
+ 1166  git pull origin development
+ 1167  rm package-lock.json
+ 1168  npm install
+ 1169  cd wdi
+ 1170  cd projects/
+ 1171  cd bucket-list-app/
+ 1172  grunt serve
+ 1173  code .
+ 1174  cd wdi
+ 1175  cd projects
+ 1176  cd bucket-list-app
+ 1177  git pull origin development
+ 1178  git status
+ 1179  git commit package-lock.json 
+ 1180  git pull origin development
+ 1181  git rebase --skip
+ 1182  git status
+ 1183  git pull origin development
+ 1184  code .
+ 1185  git status
+ 1186  git add .
+ 1187  git commit
+ 1188  git pull origin development
+ 1189  git checkout-b feature-update-form
+ 1190  git checkout -b feature-update-html
+ 1191  code.
+ 1192  code .
+ 1193  cd projects
+ 1194  cd wdi
+ 1195  cd diagnostics
+ 1196  code .
+ 1197  ls
+ 1198  cd sql-diagnostic/
+ 1199  code .
+ 1200  pry
+ 1201  \copy licensees(last_name,first_name,gender,height,weight,born_on,eye_color,hair_color) FROM './data/licensees.csv' WITH (FORMAT csv, HEADER true)
+ 1202  psql
+ 1203  psql server
+ 1204  psql -f diagnostic.sql
+ 1205  cd sql
+ 1206  cd sql-diagnostic
+ 1207  cd sq
+ 1208  psql -f diagnostic.sql
+ 1209  force
+ 1210  psql -f diagnostic.sql
+ 1211  query.sql
+ 1212  bin/bash
+ 1213  #!bin/bash
+ 1214  mysql
+ 1215  psql -f diagnostic.sql
+ 1216  sql
+ 1217  psql
+ 1218  sudo service postgresql start
+ 1219  psql
+ 1220  psql -f diagnostic.sql
+ 1221  copy licensees(last_name,first_name,gender,height,weight,born_on,eye_color,hair_color) FROM './data/licensees.csv' WITH (FORMAT csv, HEADER true)
+ 1222  \copy licensees(last_name,first_name,gender,height,weight,born_on,eye_color,hair_color) FROM './data/licensees.csv' WITH (FORMAT csv, HEADER true)
+ 1223  \copy licensees(last_name,first_name,gender,height,weight,born_on,eye_color,hair_color) FROM ('./data/licensees.csv' WITH (FORMAT csv, HEADER true)
+ 1224  PSQL \copy licensees(last_name,first_name,gender,height,weight,born_on,eye_color,hair_color) FROM './data/licensees.csv' WITH (FORMAT csv, HEADER true)
+ 1225  PSQL\copy licensees(last_name,first_name,gender,height,weight,born_on,eye_color,hair_color) FROM './data/licensees.csv' WITH (FORMAT csv, HEADER true)
+ 1226  psql copy licensees(last_name,first_name,gender,height,weight,born_on,eye_color,hair_color) FROM './data/licensees.csv' WITH (FORMAT csv, HEADER true)
+ 1227  const signUpSuccess = function (data) {
+ 1228  }
+ 1229  const signUpFailure = function (error) {
+ 1230  }
+ 1231  const signInSuccess = function (data) {
+ 1232  }
+ 1233  const signInFailure = function (error) {
+ 1234  }
+ 1235  const changePasswordSuccess = function (data) {
+ 1236  }
+ 1237  const changePasswordFailure = function () {
+ 1238  }
+ 1239  const signOutSuccess = function (data) {
+ 1240  }
+ 1241  const signOutFailure = function (error) {
+ 1242  }
+ 1243  const addDogSuccess = function (data) {
+ 1244  }
+ 1245  const updateDogSuccess = function (data) {
+ 1246  }
+ 1247  const searchForDogsSuccess = function (data) {
+ 1248  }
+ 1249  const updateDogFailure = function (error) {
+ 1250  }
+ 1251  const deleteDogSuccess = function (data) {
+ 1252  const addDogsFailure = function (error) {
+ 1253  }
+ 1254  module.exports = {
+ 1255  cd wdi
+ 1256  cd projects/
+ 1257  cd DogsForExtraPeople_FrontEnd/
+ 1258  code.
+ 1259  code .
+ 1260  cd wdi
+ 1261  cd projects/
+ 1262  cd bucket-list-api/
+ 1263  git checkout -b read-me-backend
+ 1264  code .
+ 1265  git status
+ 1266  git add .
+ 1267  git commit
+ 1268  git push origin development 
+ 1269  cd ..
+ 1270  ls
+ 1271  cd Project TTT
+ 1272  cd Project-TTT
+ 1273  codec.
+ 1274  code .
+ 1275  cd wdi
+ 1276  psql
+ 1277  cd dpagnostics
+ 1278  cd diagnostics/
+ 1279  ls
+ 1280  cd sql-diagnostic/
+ 1281  psql -f diagnostic.sql
+ 1282  cd wdi
+ 1283  cd projects/
+ 1284  cd bucket-list-app
+ 1285  git status
+ 1286  git add .
+ 1287  git commit
+ 1288  git push origin feature-update-html 
+ 1289  cd ..
+ 1290  cd bucket-list-app
+ 1291  git checkout development
+ 1292  grunt serve
+ 1293  psql -f diagnostic.sql
+ 1294  cd..
+ 1295  cd ..
+ 1296  cd diagnostics
+ 1297  ls
+ 1298  cd ..
+ 1299  cd proje
+ 1300  cd projects
+ 1301  cd bucket-list-api
+ 1302  cd development
+ 1303  git checkout development
+ 1304  git pull
+ 1305  git pull origin development 
+ 1306  git status
+ 1307  code .
+ 1308  '
+ 1309  git add .
+ 1310  git status
+ 1311  git add app/routes 
+ 1312  git status
+ 1313  git commit
+ 1314  git pull origin development
+ 1315  code .
+ 1316  git reset --hard
+ 1317  git pull origin development
+ 1318  git log
+ 1319  git branch
+ 1320  git checkout master
+ 1321  git branch -d development
+ 1322  git branch -D development
+ 1323  git checkout -b development
+ 1324  git pull orign development
+ 1325  git pull origin development
+ 1326  git checkout feature get routes file
+ 1327  git checkout -b feature-get-routes-file
+ 1328  git checkout development
+ 1329  git pull origin development
+ 1330  git checkout feature-get-routes-file 
+ 1331  git rebase development 
+ 1332  git status
+ 1333  code .
+ 1334  git status
+ 1335  git add .
+ 1336  git commit
+ 1337  git push origin feature-get-routes-file 
+ 1338  git checkout development
+ 1339  ls
+ 1340  git pull origin development
+ 1341  git reset--hard
+ 1342  git reset --hard
+ 1343  git status
+ 1344  git checkout -b bucket-ui-api-events-feature
+ 1345  git branch development
+ 1346  git checkout development
+ 1347  git pull origin development
+ 1348  cd ..
+ 1349  cd bucket-list-app/
+ 1350  git checkout -b feature-bucket-folder-ui
+ 1351  code .
+ 1352  rm bucket-list-app
+ 1353  rm bucket-list
+ 1354  cd ..
+ 1355  ls
+ 1356  cd bucket-list-app
+ 1357  code.
+ 1358  code .
+ 1359  cd ..
+ 1360  cd bucket-list-app/
+ 1361  git checkout development 
+ 1362  git pull origin development
+ 1363  git checkout feature-bucket-folder-ui 
+ 1364  code .
+ 1365  cd ..
+ 1366  cd bucket-list-app
+ 1367  git checkout development 
+ 1368  git checkout -b api code
+ 1369  git checkout -b api-code
+ 1370  code.
+ 1371  code .
+ 1372  git status
+ 1373  git add .
+ 1374  git commit
+ 1375  git push origin api-code 
+ 1376  cd ..
+ 1377  git checkout development
+ 1378  cd bucket-list-app/development
+ 1379  cd bucket-list-app
+ 1380  git checkout development 
+ 1381  code .
+ 1382  git pull origin development
+ 1383  git checkout -b read-me
+ 1384  code .
+ 1385  git status
+ 1386  git add .
+ 1387  git commit
+ 1388  git push origin development
+ 1389  cd wdi
+ 1390  cd projects/
+ 1391  cd bucket-list-api
+ 1392  git pull origin development
+ 1393  code .
+ 1394  git checkout -b read-me
+ 1395  git status
+ 1396  git add .
+ 1397  git commit 
+ 1398  git status
+ 1399  git push origin development 
+ 1400  git status
+ 1401  git push origin read-me
+ 1402  git status
+ 1403  git add .
+ 1404  git commit
+ 1405  git push origin read-me
+ 1406  cd ..
+ 1407  wdi
+ 1408  cd wdi
+ 1409  cd project 
+ 1410  ls
+ 1411  cd Project-TTT
+ 1412  code .
+ 1413  cd ..
+ 1414  ls
+ 1415  cd Kimber\'s\ Portfolio/
+ 1416  git checkout-b development
+ 1417  git init
+ 1418  ls-la
+ 1419  ls -la
+ 1420  git add .
+ 1421  git commit -am 'init'
+ 1422  git checkout-b development
+ 1423  git checkout -b development
+ 1424  code .
+ 1425  git status
+ 1426  git add .
+ 1427  git commit
+ 1428  git push origin development
+ 1429  git add remote https://github.com/kimbermenjivar/Kimber-s-Portfolio.git
+ 1430  git add https://github.com/kimbermenjivar/Kimber-s-Portfolio.git
+ 1431  git commit -m "first commit"
+ 1432  cd master
+ 1433  cd ..
+ 1434  cd Kimber\'s\ Portfolio/
+ 1435  git checkout master
+ 1436  git remote add origin https://github.com/kimbermenjivar/Kimber-s-Portfolio.git
+ 1437  git push -u origin master
+ 1438  git checkout development
+ 1439  git pull origin master
+ 1440  git add.
+ 1441  git status
+ 1442  git add .
+ 1443  git commit
+ 1444  cd wdi
+ 1445  cd practices
+ 1446  git clone https://git.generalassemb.ly/Kimber/react-pre-work-study.git
+ 1447  cd react-pre-work-study/
+ 1448  git checkout -b training
+ 1449  code .
+ 1450  git checkout -b response
+ 1451  code .
+ 1452  cd ..
+ 1453  ;s
+ 1454  cd ..
+ 1455  ;s
+ 1456  ls
+ 1457  cd projects/
+ 1458  ls
+ 1459  cd bucket-list-app
+ 1460  ls
+ 1461  git log
+ 1462  git checkout readme
+ 1463  git checkout read-me
+ 1464  git log
+ 1465  cat README.md 
+ 1466  code .
+ 1467  git status
+ 1468  git add .
+ 1469  git commit .
+ 1470  git push origin master
+ 1471  cd bucket-list-
+ 1472  cd .
+ 1473  cd ..
+ 1474  cd bucket-list-api
+ 1475  code .
+ 1476  git status
+ 1477  git add .
+ 1478  git commit
+ 1479  git push origin master
+ 1480  cd ..
+ 1481  bucket-list-app
+ 1482  cd bucket-list-app
+ 1483  code .
+ 1484  git add .
+ 1485  git commit
+ 1486  git push origin master
+ 1487  code ..
+ 1488  cd wdi
+ 1489  ls
+ 1490  cd trainings
+ 1491  ls
+ 1492  cd practices
+ 1493  ls
+ 1494  cd ..
+ 1495  cd practices
+ 1496  ls
+ 1497  cd ..
+ 1498  ls
+ 1499  cd installfest
+ 1500  ls
+ 1501  cd wdi
+ 1502  cd projects
+ 1503  cd ..
+ 1504  cd projects
+ 1505  cd bucket-list-app
+ 1506  git status
+ 1507  git add .
+ 1508  git commit 
+ 1509  git push origin development 
+ 1510  git push origin read-me 
+ 1511  cd ..
+ 1512  cd bucket-list-api
+ 1513  git status
+ 1514  git push origin development
+ 1515  git push origin read-me-backend 
+ 1516  cd ..
+ 1517  cd bucket-list-api
+ 1518  git checkout development 
+ 1519  git pull origin development
+ 1520  code 
+ 1521  git checkout read-me-backend 
+ 1522  code .
+ 1523  mongo bucket-list-app-development
+ 1524  sudeo service mongodb restart
+ 1525  sudo service mongodb restart
+ 1526  mongo bucket-list-app-development
+ 1527  mongo
+ 1528  git log
+ 1529  git status
+ 1530  git commit -m "working on readme"
+ 1531  git add .
+ 1532  git commit -m "working on readme"
+ 1533  git branch
+ 1534  git checkout development
+ 1535  git pull origin development
+ 1536  mongo
+ 1537  nodemon server.js 
+ 1538  mongo
+ 1539  cd ..
+ 1540  cd bucket-list-app
+ 1541  code .
+ 1542  code 
+ 1543  git pull origin development
+ 1544  git status
+ 1545  git add .
+ 1546  git commit
+ 1547  git push origin development
+ 1548  code
+ 1549  code .
+ 1550  git status
+ 1551  npm install
+ 1552  cd ..
+ 1553  cd bucket-list-app/
+ 1554  git checkout develop
+ 1555  git checkout development
+ 1556  grunt serve
+ 1557  cd wdi
+ 1558  cd trainings
+ 1559  git clone https://git.generalassemb.ly/ArjunRayGA/twitter-react-clone.git
+ 1560  cd twitter-react-clone/
+ 1561  git checkout -b training
+ 1562  code .
+ 1563  git status
+ 1564  cd wdi
+ 1565  cd projects/
+ 1566  ls
+ 1567  cd DogsForExtraPeople_FrontEnd/
+ 1568  code .
+ 1569  cd ..
+ 1570  cd bucket-list-app
+ 1571  git checkout - b sign out
+ 1572  git checkout -b sign-out
+ 1573  git status
+ 1574  git add .
+ 1575  git commit 
+ 1576  git push origin development
+ 1577  git status
+ 1578  git checkout development
+ 1579  git pull origin development
+ 1580  git checkout sign-out
+ 1581  git push origin sign-out
+ 1582  git push origin development
+ 1583  git status
+ 1584  git push origin sign-out
+ 1585  cd ..
+ 1586  cd bucket-list-api
+ 1587  git pull origin development
+ 1588  git status
+ 1589  cd ..
+ 1590  cd bucket-list-app
+ 1591  checkout development
+ 1592  git checkout development
+ 1593  git pull origin development
+ 1594  git status
+ 1595  git log
+ 1596  cd ..
+ 1597  cd bucket-list-api
+ 1598  git log
+ 1599  mongo
+ 1600  mongo bucket-list-app-development
+ 1601  nodemon server
+ 1602  d ..
+ 1603  cd ..
+ 1604  cd trainings/
+ 1605  git clone https://git.generalassemb.ly/Kimber/react-components-and-props.git
+ 1606  cd react-components-and-props/
+ 1607  git checkout -b training
+ 1608  npm install
+ 1609  cd create my-react-app
+ 1610  create my-react-app
+ 1611  my-react-app
+ 1612  cd my-react-app/
+ 1613  code .
+ 1614  npm start
+ 1615  npm install
+ 1616  npm start
+ 1617  cd wdi
+ 1618  cd projects/
+ 1619  ls
+ 1620  cd wdi
+ 1621  cd desktop
+ 1622  cd wdi
+ 1623  cd projects/
+ 1624  ls
+ 1625  cd wdi
+ 1626  cd projects/
+ 1627  ls
+ 1628  cd cap
+ 1629  cd capstone-project-master/
+ 1630  git checkout -b development
+ 1631  code .
+ 1632  git status
+ 1633  git add .
+ 1634  git commit 
+ 1635  git push origin master
+ 1636  git clone
+ 1637  git --c, checkout-b development
+ 1638  git staus
+ 1639  git status
+ 1640  git remote add origin https://github.com/kimbermenjivar/Southern-Belle.git
+ 1641  echo "# Southern-Belle" >> README.md
+ 1642  git init
+ 1643  git add README.md
+ 1644  git commit -m "first commit"
+ 1645  git remote add origin https://github.com/kimbermenjivar/Southern-Belle.git
+ 1646  git push -u origin master
+ 1647  git checkout -b development
+ 1648  code .
+ 1649  git add 1.  [ ] [Download Express API Template](https://git.generalassemb.ly/ga-wdi-boston/express-api-template) or [Download Rails API Template](https://git.generalassemb.ly/ga-wdi-boston/rails-api-template)
+ 1650  cd ..
+ 1651  ls
+ 1652  cd capstone-project-master/
+ 1653  ls
+ 1654  git add 1.  [ ] [Download Express API Template](https://git.generalassemb.ly/ga-wdi-boston/express-api-template) or [Download Rails API Template](https://git.generalassemb.ly/ga-wdi-boston/rails-api-template)
+ 1655  1.  [ ] [Download Express API Template](https://git.generalassemb.ly/ga-wdi-boston/express-api-template) or [Download Rails API Template](https://git.generalassemb.ly/ga-wdi-boston/rails-api-template)
+ 1656  cd ..
+ 1657  ls
+ 1658  cd Southern\ Belle\ Culture-Client/
+ 1659  git init
+ 1660  git status
+ 1661  git add -a
+ 1662  git add .
+ 1663  git status
+ 1664  git commit
+ 1665  git checkout -b development
+ 1666  cd wdi
+ 1667  cd projects
+ 1668  ls
+ 1669  cd DogsForExtraPeople_FrontEnd/
+ 1670  code .
+ 1671  cd wdi
+ 1672  cd projects
+ 1673  ls
+ 1674  cd Southern\ Belle\ Culture-BackEnd
+ 1675  cd SouthernBelleCulture-BackEnd
+ 1676  git init
+ 1677  ls
+ 1678  cd .
+ 1679  cd  ..
+ 1680  cd wdi
+ 1681  cd projects/
+ 1682  ls
+ 1683  cd SouthernBelleCulture-BackEnd/
+ 1684  git init
+ 1685  git add .
+ 1686  git status
+ 1687  git commit
+ 1688  git checkout-b development
+ 1689  git checkout -b development
+ 1690  bundle install
+ 1691  git status
+ 1692  touch.env
+ 1693  .env
+ 1694  touch .env
+ 1695  bundle exec rails secret
+ 1696  bin/rails server
+ 1697  git checkout -b development
+ 1698  bundle exec rails secret
+ 1699  touch .env
+ 1700  code .
+ 1701  bundle exec rails secret
+ 1702  bin/rails db:drop
+ 1703  bin/rails db:create
+ 1704  bin/rails db:migrate
+ 1705  bin/rails db:seed
+ 1706  bin/rails db:examples
+ 1707  bin/rails server
+ 1708  bin/rails routes
+ 1709  cd wdi
+ 1710  cd trainings
+ 1711  git clone https://git.generalassemb.ly/Kimber/react-components-and-state.git
+ 1712  git react-components-and-state/
+ 1713  cd react-components-and-state/
+ 1714  git checkout -b training
+ 1715  npm install
+ 1716  npm start
+ 1717  cd my-react-app/
+ 1718  npm install
+ 1719  npm start
+ 1720  cd ..
+ 1721  cd disgnostic
+ 1722  cd diagnostics/
+ 1723  ls
+ 1724  cd html-css-sass-diagnostic/
+ 1725  code .
+ 1726  git status
+ 1727  git add .
+ 1728  git commit
+ 1729  git push origin response
+ 1730  cd ..
+ 1731  ls
+ 1732  cd js-objects-diagnostic/
+ 1733  code .
+ 1734  ls
+ 1735  cd wdi
+ 1736  cd projects
+ 1737  cd Project-TTT
+ 1738  code .
+ 1739  grunt serve
+ 1740  code .
+ 1741  grunt serve
+ 1742  code .
+ 1743  grunt serve
+ 1744  wdi
+ 1745  cd wdi
+ 1746  cd projects/
+ 1747  cd SouthernBelleCulture-BackEnd/
+ 1748  bin/rails routes
+ 1749  bin/rails console
+ 1750  bin/rains generate scaffold SouthernCulture quote:string userid:string about:string images:string
+ 1751  bin/rains generate scaffold Southernculture quote:string userid:string about:string image:string
+ 1752  bin/rails generate scaffold Southernculture quote:string userid:string about:string image:string
+ 1753  bin/rails s
+ 1754  cd wdi
+ 1755  cd projects/
+ 1756  cd Project-TTT
+ 1757  sudo snap install heroku --classic
+ 1758  mongo
+ 1759  cd wdi
+ 1760  cd projects/
+ 1761  cd bucket-list-api/
+ 1762  code .
+ 1763  mongo
+ 1764  nodemon server
+ 1765  cd ..
+ 1766  cd bucket-list-api
+ 1767  git pull origin development
+ 1768  git status
+ 1769  git add --patch
+ 1770  git reset --hard
+ 1771  git pull origin development
+ 1772  nodemon
+ 1773  nodemon server
+ 1774  cd ..
+ 1775  cd back-end-app
+ 1776  ls
+ 1777  cd bucket-list-app
+ 1778  git checkout -b feature error display
+ 1779  git checkout -b error-display
+ 1780  code 
+ 1781  mongo
+ 1782  git checkout development
+ 1783  git pull origin development
+ 1784  git Mongoose
+ 1785  Mongo
+ 1786  Handlebars-Alex
+ 1787  Postman-Terry
+ 1788  cd bucket-list-app
+ 1789  git checkout error-display 
+ 1790  git status
+ 1791  git add .
+ 1792  git commit
+ 1793  git push origin development 
+ 1794  git push origin error-display 
+ 1795  git checkout development
+ 1796  git pull origin development
+ 1797  git checkout -b read me
+ 1798  git status
+ 1799  git add .
+ 1800  git commit
+ 1801  git push origin development
+ 1802  git checkout master
+ 1803  git pull origin master
+ 1804  cd ..
+ 1805  cd bucket-list-api/
+ 1806  git checkout master
+ 1807  git pull origin master 
+ 1808  cd ..
+ 1809  git clone https://git.generalassemb.ly/Kimber/portfolio-template.git
+ 1810  cd git checkout -b portfolio
+ 1811  cd portfolio-template/
+ 1812  git checkout -b development
+ 1813  code .
+ 1814  ls
+ 1815  cd ..
+ 1816  ls
+ 1817  cd Kimber\'s\ Portfolio/
+ 1818  ls
+ 1819  git pull origin master
+ 1820  cd ..
+ 1821  ls
+ 1822  cd Kimber\'s\ Portfolio/master
+ 1823  cd Kimber\'s\ Portfolio/
+ 1824  git pull origin master
+ 1825  cd ..
+ 1826  cd trainings
+ 1827  git clone https://git.generalassemb.ly/Kimber/react-intro.git
+ 1828  cd react-intro/
+ 1829  git checkout -b training
+ 1830  npm install
+ 1831  npm install ==global create-react-app
+ 1832  npm install --global create-react-app
+ 1833  create-react-app
+ 1834  ls
+ 1835  cd create-react-app
+ 1836  yarn start
+ 1837  sudo apt install cmdtest
+ 1838  cd my react app
+ 1839  cd my-react-app
+ 1840  create-react-app my-react-app
+ 1841  npm start
+ 1842  npm test
+ 1843  npm start
+ 1844  /home/kimbermenjivar/.npm/_logs/2018-08-14T18_08_45_107Z-debug.log
+ 1845  npm start
+ 1846  ls
+ 1847  cd my-react-app
+ 1848  ls
+ 1849  bpm start
+ 1850  npm start
+ 1851  npm install
+ 1852  code .
+ 1853  cd ..
+ 1854  cd trainings
+ 1855  cd ..
+ 1856  cd projects
+ 1857  ls
+ 1858  cd Project TTT
+ 1859  cd Project-TTT
+ 1860  code .
+ 1861  grunt serve
+ 1862  git reset --hard
+ 1863  grunt serve
+ 1864  e
+ 1865  cd wdi
+ 1866  cd projects/
+ 1867  cd Project-TTT
+ 1868  code .
+ 1869  git reset --hard
+ 1870  cd ..
+ 1871  cd SouthernBelleCulture-BackEnd/
+ 1872  EMAIL=me@me.com PASSWORD=123 scripts/auth/sign-up.sh
+ 1873  EMAIL=mtte@me.com PASSWORD=123 scripts/auth/sign-up.sh
+ 1874  EMAIL=mtte@me.com PASSWORD=123 scripts/auth/sign-in.sh
+ 1875  OLDPWD=123 NEW=1234 TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077
+ 1876  OLDPWD=123 NEW=1234 TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 scripts/auth/changepassword.sh
+ 1877  OLDPWD=123 NEW=1234 TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 scripts/auth/change-password.sh
+ 1878  OLDPW=123 NEWPW=1234 TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 scripts/auth/change-password.sh
+ 1879  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 scripts/auth/sign-out.sh
+ 1880  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1881  exit .
+ 1882  exit.
+ 1883  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1884  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1885  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1886  exit .
+ 1887  exit.
+ 1888  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1889  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1890  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1891  exit .
+ 1892  exit.
+ 1893  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1894  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1895  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1896  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1897  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1898  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'sh scripts/southernculture/create-southernculture.sh
+ 1899  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1900  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'sh scripts/southernculture/create-southernculture.sh
+ 1901  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1902  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE="Don't make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1903  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1904  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE="Dont make a mountain outof a mole hill." USER='1' ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'sh scripts/southernculture/create-southernculture.sh
+ 1905  exit
+ 1906  exit.
+ 1907  /q
+ 1908  q/
+ 1909  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1910  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE="Don't make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1911  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1912  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE="Dont make a mountain outof a mole hill." USER='1' ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'sh scripts/southernculture/create-southernculture.sh
+ 1913  exit
+ 1914  exit.
+ 1915  /q
+ 1916  q/
+ 1917  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don/t make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA' sh scripts/southernculture.sh
+ 1918  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don/t make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA' sh scripts/southernculture/create-southernculture.sh
+ 1919  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Dont make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA' sh scripts/southernculture/create-southernculture.sh
+ 1920  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE="Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1921  EMAIL=mtte@me.com PASSWORD=1234 scripts/auth/sign-in.sh
+ 1922  TOKEN=BAhJIiUxMmEzZGE1MWE4MjEzY2FjYmQzMzE2MGRjOTViYjA4NQY6BkVG--f51a617ed438920453bda7b93953c7f0ccd6961b QUOTE="Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1923  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1924  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'sh scripts/southernculture/create-southernculture.sh
+ 1925  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'
+ 1926  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE='Don't make a mountain outof a mole hill' USER='1' ABOUT='This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there.' IMAGE='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA'sh scripts/southernculture/create-southernculture.sh
+ 1927  TOKEN=BAhJIiU4NWZmODA2NzFiMjE5NDgwNTBlNGNkZTI4YTRkYTkyYgY6BkVG--a1d7a51738537c415880599b195e6c4eded18077 QUOTE="Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1928  EMAIL=mtte@me.com PASSWORD=1234 scripts/auth/sign-in.sh
+ 1929  TOKEN=BAhJIiVhY2ViNTdkMjgxZTkzYzQ5M2MxNmQxOWNhMTRjZGVlOQY6BkVG--1907551b7c6fb636332d7f81824f5ef6ae31325c QUOTE="Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1930  EMAIL=mtte@me.com PASSWORD=1234 scripts/auth/sign-in.sh
+ 1931  TOKEN=BAhJIiU5MDM3Njc4NmJmN2JlOTRlZGVjMDJjNjQ3OTg2ZjBhYgY6BkVG--233f770510e1be2847b8eca1eb1a87716d140d00 "Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1932  TOKEN=BAhJIiU5MDM3Njc4NmJmN2JlOTRlZGVjMDJjNjQ3OTg2ZjBhYgY6BkVG--233f770510e1be2847b8eca1eb1a87716d140d00 QUOTE="Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1933  rake db:migrate
+ 1934  bundle exec
+ 1935  rake db:migrate bundle exec
+ 1936  rake bundle exec
+ 1937  TOKEN=BAhJIiU5MDM3Njc4NmJmN2JlOTRlZGVjMDJjNjQ3OTg2ZjBhYgY6BkVG--233f770510e1be2847b8eca1eb1a87716d140d00 QUOTE="Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1938  rake bundle exec
+ 1939  tasks
+ 1940  rake db:migrate
+ 1941  TOKEN=BAhJIiU5MDM3Njc4NmJmN2JlOTRlZGVjMDJjNjQ3OTg2ZjBhYgY6BkVG--233f770510e1be2847b8eca1eb1a87716d140d00 QUOTE="Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1942  rake bundle exec
+ 1943  bundle exec
+ 1944  TOKEN=BAhJIiU5MDM3Njc4NmJmN2JlOTRlZGVjMDJjNjQ3OTg2ZjBhYgY6BkVG--233f770510e1be2847b8eca1eb1a87716d140d00 QUOTE="Dont make a mountain outof a mole hill" USER="1" ABOUT="This quote is a pretty popular and isnt used only in the south anymore but it most certainly was created there." IMAGE="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4odA6KcmeZCEmFKqJ6kOKu8nVCahaxitKSgdfeRedLsXR4MV2IA" sh scripts/southernculture/create-southernculture.sh
+ 1945  cd wdi
+ 1946  cd projects/
+ 1947  cd SouthernBelleCulture-BackEnd/
+ 1948  bin/rails server
+ 1949  cd wdi
+ 1950  cd projects/
+ 1951  cd SouthernBelleCulture-BackEnd/
+ 1952  bin/rails db:migrate
+ 1953  EMAIL=me@me.com PASSWORD=123 scripts/auth/sign-up.sh
+ 1954  exit
+ 1955  ls
+ 1956  cd ..
+ 1957  SouthernBelleCulture-BackEnd/
+ 1958  git checkout development
+ 1959  cd ..
+ 1960  cd projects/
+ 1961  bin/rails db:migrate
+ 1962  cd SouthernBelleCulture-BackEnd/
+ 1963  log
+ 1964  cd log
+ 1965  cd spec
+ 1966  cd app
+ 1967  ls
+ 1968  cd developmet.log
+ 1969  development.log
+ 1970  bin/rails comsole
+ 1971  bin/rails console
+ 1972  cd wdi
+ 1973  cd projects/SouthernBelleCulture-BackEnd/
+ 1974  bin/rails server
+ 1975  git status
+ 1976  git add app
+ 1977  git status
+ 1978  git commit
+ 1979  git checkout master
+ 1980  git merge development
+ 1981  git push origin master
+ 1982  git push
+ 1983  git remote add origin https://github.com/kimbermenjivar/SouthernBelleCulture-BackEnd.git
+ 1984  git push origin master
+ 1985  git pull origin
+ 1986  git push origin master
+ 1987  git status
+ 1988  ls
+ 1989  ls -alh
+ 1990  git log
+ 1991  git push origin master
+ 1992  git pull
+ 1993  git pull origin master
+ 1994  git status
+ 1995  git add README.md 
+ 1996  git status
+ 1997  git pusoh origin master
+ 1998  git push origin master
+ 1999  git rebase --continue
+ 2000  git log
+ 2001  git status
+ 2002  git push origin master
+ 2003  heroku login
+ 2004  heroku git:remote -a southernbelle
+ 2005  sit status
+ 2006  git status
+ 2007  git push heroku master
+ 2008  heroku cli
+ 2009  heroku
+ 2010  heroku run rails db:migrate
+ 2011  git remote -v
+ 2012  history
+ 2013  history >> history.txt

@@ -27,7 +27,7 @@ class SouthernculturesController < OpenReadController
 
   # PATCH/PUT /southerncultures/1
   def update
-    if @southernculture.update(southernculture_params)
+    if @southernculture=current_user.southerncultures.update(southernculture_params)
       render json: @southernculture
     else
       render json: @southernculture.errors, status: :unprocessable_entity
@@ -36,7 +36,11 @@ class SouthernculturesController < OpenReadController
 
   # DELETE /southerncultures/1
   def destroy
-    @southernculture.destroy
+    if @southernculture=current_user.southerncultures.destroy(params[:id])
+      render json: @southernculture
+    else
+      render json: @southernculture.errors, status: :unprocessable_entity
+    end
   end
 
   private
