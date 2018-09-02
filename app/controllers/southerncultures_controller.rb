@@ -12,7 +12,7 @@ class SouthernculturesController < OpenReadController
   def show
     render json: @southernculture
   end
-  
+
   # POST /southerncultures
   def create
 
