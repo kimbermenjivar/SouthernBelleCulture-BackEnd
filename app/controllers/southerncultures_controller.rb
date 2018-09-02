@@ -1,3 +1,4 @@
+
 class SouthernculturesController < OpenReadController
   before_action :set_southernculture, only: [:show, :update, :destroy]
 
@@ -24,10 +25,10 @@ class SouthernculturesController < OpenReadController
       render json: @southernculture.errors, status: :unprocessable_entity
     end
   end
-
   # PATCH/PUT /southerncultures/1
   def update
-    if @southernculture=current_user.southerncultures.update(southernculture_params)
+
+    if current_user.id == @southernculture.user_id && @southernculture.update(southernculture_params)
       render json: @southernculture
     else
       render json: @southernculture.errors, status: :unprocessable_entity
@@ -36,8 +37,9 @@ class SouthernculturesController < OpenReadController
 
   # DELETE /southerncultures/1
   def destroy
-    if @southernculture=current_user.southerncultures.destroy(params[:id])
-      render json: @southernculture
+    if current_user.id == @southernculture.user_id && @southernculture.destroy(southernculture_params)
+      # render json: @southernculture
+      @southernculture.destroy
     else
       render json: @southernculture.errors, status: :unprocessable_entity
     end
