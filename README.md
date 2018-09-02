@@ -2,10 +2,10 @@
 Capstone Project Back End
 please see document in github
 Capstone Project- Back End / Read.me
-Overview This is my capstone project assignment that was given by General Assembly. Our assignment included creating a website of our choice. I based it on one to many relationships. I created a Single Page Application for the web that would allow a user to to interact with the website and the back end was used to authenticate the functions of CRUD. 
+Overview This is my capstone project assignment that was given by General Assembly. Our assignment included creating a website of our choice. I based it on one to many relationships. I created a Single Page Application for the web that would allow a user to to interact with the website and the back end was used to authenticate the functions of CRUD.
 Link to Front End
 •	Deployed App : https://kimbermenjivar.github.io/SouthernBelleCulture-Client/
-•	Repository : https://github.com/kimbermenjivar/SouthernBelleCulture-Client
+•Repository : https://github.com/kimbermenjivar/SouthernBelleCulture-Client
 Links to Back End
 •	Deployed Back End :  https://github.com/kimbermenjivar/SouthernBelleCulture-BackEnd
 •	Repository :  https://southernbelle.herokuapp.com/
