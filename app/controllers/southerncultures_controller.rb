@@ -15,7 +15,6 @@ class SouthernculturesController < OpenReadController
 
   # POST /southerncultures
   def create
-
     @southernculture = current_user.southerncultures.build(southernculture_params) # @southernculture = Southernculture.new(southernculture_params)
 
     if @southernculture.save
